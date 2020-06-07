@@ -1,0 +1,2 @@
+rootProject.name='LiveBroadcast'
+include ':app', ':libbambuser-0.9.21'
